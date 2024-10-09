@@ -1,6 +1,6 @@
 # Customer Market Segmentation using Unsupervised Machine Learning
 
-This repository contains my completed guided project from Coursera's "Unsupervised Machine Learning for Customer Market Segmentation." In this project, I applied unsupervised learning techniques to segment a customer market, identifying distinct groups of customers based on their purchasing behavior and other characteristics.
+This repository contains a completed project on applying unsupervised learning techniques to segment a customer market. The goal was to identify distinct customer groups based on their purchasing behavior and other characteristics.
 
 ## Project Overview
 
